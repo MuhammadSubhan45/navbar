@@ -1,0 +1,47 @@
+/* nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    position: relative;
+  }
+  
+  .nav-links {
+    display: flex;
+    list-style: none;
+  }
+  
+  .nav-links li {
+    margin-left: 1rem;
+  }
+  
+  .nav-links li a {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .toggler {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  
+  .toggler i {
+    font-size: 2rem;
+    color: #000;
+    cursor: pointer;
+  }
+  
+  @media screen and (min-width: 769px) {
+    .nav-links {
+      display: flex;
+    }
+    .toggler {
+      display: none;
+    }
+  }
+  .nav-links {
+    transition: all 0.5s ease-in-out;
+  }
+     */
